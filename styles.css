@@ -13,12 +13,18 @@ body {background-color:mediumpurple;
             background-repeat: repeat;
         }
         h1 {color: white;}
-h2 {color:whitesmoke}
+h2 {color:white}
         p  {color: black;}
+sub {color:darkgray}
 header {background-color:black;
 text-align:left;
+    width:auto;
+    height:
 color:white
 }
 nav {background-color:black;
 text-align:center;
 }
+hr {background-color:black;
+    color:white;
+};
