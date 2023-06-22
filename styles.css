@@ -12,9 +12,13 @@ body {background-color:mediumpurple;
             text-align:center;
             background-repeat: repeat;
         }
-        h1 {color: green;}
-        p  {color: white;}
+        h1 {color: white;}
+h2 {color:whitesmoke}
+        p  {color: black;}
 header {background-color:black;
 text-align:left;
+color:white
 }
-nav
+nav {background-color:black;
+text-align:center;
+}
