@@ -30,4 +30,26 @@ nav{
 hr{
     background-color:black;
     color:white;
-};
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+/* do not bother with this a:visited tag, it makes the site look wack */
+a:visited {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ac00eb;
+  background-color: transparent;
+  text-decoration: underline;
+}
+ /* I have yet to see a:active do anything, but for the time being, it'll be disabled
+a:active {
+  background-color: transparent;
+  text-decoration: underline;
+}
+*/
