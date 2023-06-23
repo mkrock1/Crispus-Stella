@@ -10,6 +10,9 @@ h1{
 h2{
     color:white
 }
+h3{
+    color:purple
+}
 p{
     color: black;
 }
@@ -30,6 +33,10 @@ nav{
 hr{
     background-color:black;
     color:white;
+}
+th{
+    color: green;
+    
 }
 a:link {
   color: green;
