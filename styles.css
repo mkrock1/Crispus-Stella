@@ -31,12 +31,6 @@ hr{
     background-color:black;
     color:white;
 }
-#divvy3 {
-    background: linear-gradient(to right, #993366 37%, #660066 100%);
-}
-#divvy2 {
-    background: linear-gradient(to right, #660066 37%, #303030 100%);
-}
 a:link {
   color: green;
   background-color: transparent;
