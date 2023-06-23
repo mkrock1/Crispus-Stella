@@ -36,7 +36,7 @@ hr{
 }
 th{
     color: green;
-    
+    border-right: double;
 }
 a:link {
   color: green;
